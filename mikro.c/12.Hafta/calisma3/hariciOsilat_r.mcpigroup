@@ -1,0 +1,8 @@
+[PROJECTS]
+Count=4
+Project0=..\calisma1\saatdksn.mcppi
+Project1=..\calisma1\hariciOsilatör.mcppi
+Project2=..\calisma2\hariciOsilatör.mcppi
+Project3=hariciOsilatör.mcppi
+[ActiveProject]
+Index=3

@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\..\7.Hafta\lcd\lcd.mcppi
+Project1=Interrupt.mcppi
+[ActiveProject]
+Index=0

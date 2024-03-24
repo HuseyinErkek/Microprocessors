@@ -1,0 +1,7 @@
+[PROJECTS]
+Count=3
+Project0=..\adcfunct\adcfunct.mcppi
+Project1=..\adcfunct1.1\adcfunct1.mcppi
+Project2=lcd.mcppi
+[ActiveProject]
+Index=2

@@ -1,0 +1,12 @@
+[PROJECTS]
+Count=8
+Project0=..\calisma1.mcppi
+Project1=..\calisma2.mcppi
+Project2=..\calisma3.mcppi
+Project3=..\calisma3\calisma3.mcppi
+Project4=..\calisma3\calisma3.1\calisma3.mcppi
+Project5=..\calisma4\calisma3.mcppi
+Project6=..\calisma4\calisma4.mcppi
+Project7=..\calisma4\calisma5\calisma5.mcppi
+[ActiveProject]
+Index=7
