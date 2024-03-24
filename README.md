@@ -1,0 +1,1 @@
+Input/Output Ports with PIC16F887, 7 Segment Indicator, ADC Conversion and Sensitivity, Printing Text on the Screen with LCD, Setting up a Counter and Timer Circuit with Timer Recordings, Operations and Applications
